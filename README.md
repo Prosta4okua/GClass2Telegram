@@ -1,5 +1,6 @@
-<a href="https://bulma.io"><img src="https://bulma.io/images/made-with-bulma.png" alt="Made with Bulma" width="128" height="24"></a><space><space>
 <a href="https://wakatime.com/badge/user/1f9cacfc-ddef-4799-9aea-6a28cfc53364/project/ae75de9f-06f1-44a6-b546-2dee67339675"><img src="https://wakatime.com/badge/user/1f9cacfc-ddef-4799-9aea-6a28cfc53364/project/ae75de9f-06f1-44a6-b546-2dee67339675.svg" alt="wakatime"></a>
+<a href="https://bulma.io"><img src="https://bulma.io/images/made-with-bulma.png" alt="Made with Bulma" width="128" height="24"></a><space><space>
+
 
 <h1>GClass to Telegram</h1>
     <i>Just another pet project, huh</i>
