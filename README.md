@@ -9,9 +9,10 @@
 
 <h2>To-Do List</h2>
 <ul>
-    <li>Understand how Telegram Bot API works</li>
+    <li>~~Understand how Telegram Bot API works~~</li>
     <li>Understand how Google OAuth 2.0 works</li>
     <li>Understand how Google Class API works</li>
     <li>Save data in MongoDB</li>
     <li>Implement checking when the specified file (GDrive, GSheet etc) was changed and notify user.</li>
+    <li>Implement sign in and sign up pages</li>
 </ul>

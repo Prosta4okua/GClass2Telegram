@@ -1,1 +1,4 @@
 ./idea/
+token.*
+node_modules/
+learn_mongo_db/
